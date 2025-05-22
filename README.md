@@ -6,7 +6,7 @@ I am a seasoned platform architect and full-stack developer who views coding as 
 
 ## 🚀 Expertise
 
-My expertise ranges from building **mobile apps** to **micro-services**, **data engineering**, **analytics**, and **Gen AI Pipelines**.
+My expertise ranges from building **mobile apps** to **micro-services**, **data engineering**, **analytics**, and **Gen AI, AI Agents & RAG based AI Apps**.
 
 ---
 
