@@ -71,7 +71,9 @@ My expertise ranges from building **mobile apps** to **micro-services**, **data 
 
 ## 🤝 Connect with me
 
-Feel free to connect with me anytime, schedule an online meeting: [calendly.com/shubhanshu-singh](https://calendly.com/shubhanshu-singh)
+- LinkedIn: [linkedin.com/in/shubhanshusingh](https://www.linkedin.com/in/shubhanshusingh/)
+- Website: [shubhanshusingh.com](http://shubhanshusingh.com/)
+- Schedule an online meeting: [calendly.com/shubhanshu-singh](https://calendly.com/shubhanshu-singh)
 
 ---
 
