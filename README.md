@@ -4,6 +4,14 @@ I am a seasoned platform architect and full-stack developer who views coding as 
 
 ---
 
+## 🤝 Connect with me
+
+- LinkedIn: [linkedin.com/in/shubhanshusingh](https://www.linkedin.com/in/shubhanshusingh/)
+- Website: [shubhanshusingh.com](http://shubhanshusingh.com/)
+- Schedule an online meeting: [calendly.com/shubhanshu-singh](https://calendly.com/shubhanshu-singh)
+
+---
+
 ## 🚀 Expertise
 
 My expertise ranges from building **mobile apps** to **micro-services**, **data engineering**, **analytics**, and **Gen AI, AI Agents & RAG based AI Apps**.
@@ -66,14 +74,6 @@ My expertise ranges from building **mobile apps** to **micro-services**, **data 
 - LlamaIndex
 - CrewAI
 - Haystack
-
----
-
-## 🤝 Connect with me
-
-- LinkedIn: [linkedin.com/in/shubhanshusingh](https://www.linkedin.com/in/shubhanshusingh/)
-- Website: [shubhanshusingh.com](http://shubhanshusingh.com/)
-- Schedule an online meeting: [calendly.com/shubhanshu-singh](https://calendly.com/shubhanshu-singh)
 
 ---
 
